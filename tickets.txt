@@ -1,0 +1,7 @@
+1. error 403 has to be handled (max api request exceeded ==> service temporarily unavailable!)
+2. loading gif on modal while cloning and sweet alert after successfull cloning
+3. disable modal continue button if the path or the branch entred is wrong 
+4. permission denied error for the user given path
+5. displaying remote repos and cloned repos (tab switching)
+6. create modal file explorer for selecting path
+7. attach text editor to right panel
